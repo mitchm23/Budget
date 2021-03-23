@@ -1,0 +1,34 @@
+[
+    {
+      "id": 0,
+      "name": "React Employee Directory",
+      "image": "EmployeeDirectory.PNG",
+      "alt": "Employee Directory",
+      "imgTxt": "An application using React. The user can filter and sort the data.",
+      "link": "https://mitchm23.github.io/Directory/"
+    },
+    {
+      "id": 1,
+      "name": "Work Out Tracker",
+      "image": "WorkOut.PNG",
+      "alt": "Work Out Tracker Graphs",
+      "imgTxt": "Work Out Tracker using MongoDB. The user can add work out data, and the charts on the dashboard will automatically update.",
+      "link": "https://fierce-fortress-06923.herokuapp.com/?id=602f1a3cac53b200154ff32a"
+    },
+    {
+      "id": 2,
+      "name": "Strive Right",
+      "image": "StriveRight.PNG",
+      "alt": "Strive Right",
+      "imgTxt": "An app developed for parents to incentivize their kids to learn responsibility!",
+      "link": "https://striverite.herokuapp.com/"
+    },
+    {
+      "id": 3,
+      "name": "Eat Da Burger",
+      "image": "Burger.PNG",
+      "alt": "Eat Da Burger",
+      "imgTxt": "A simple application that allows the user to add burgers to a MySQL database.",
+      "link": "https://burger-time33.herokuapp.com/"
+    }
+]
